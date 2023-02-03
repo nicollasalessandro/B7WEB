@@ -1,0 +1,25 @@
+/**ID ATRIBUIDO APONTADO NO ELEMENTO - ID É INFORMADO SEMPRE COM # - O ID SÓ PODE SER USANDO SOMENTE EM UM ÚNICO ELEMENTO**/
+#titulo {
+    color: rgb(65, 109, 0);
+}
+
+/**CLASSE ATRIBUIDO APONTADO NO ELEMENTO - CLASS É INFORMADO SEMPRE COM . - A CLASSE EU POSSO COLOCAR EM VÁRIOS ELEMENTOS.**/
+.lista {
+    color: red;
+}
+
+/**COLOCANDO O ESTILO NO ELEMENTO ABAIXO**/
+img {
+    width: 200px;
+}
+
+/**COLOCANDO O ESTILO EM ID E CLASSE AO MESMO TEMPO (OBS.:QUANDO OS ESTILOS SÃO IGUAIS)**/
+#duaspropiedades, .propiedades {
+    color: rgb(177, 150, 1);
+    font-size: 35px;
+}
+
+/**COLOCANDO O ESTILO DE UM ITEM DENTRO DE OUTRO**/
+ol, li{
+    color: rgb(0, 67, 145);
+}
