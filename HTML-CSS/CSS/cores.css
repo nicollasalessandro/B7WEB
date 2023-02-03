@@ -1,0 +1,16 @@
+/**OUTROS METODOS DE DEFINIR A COR - RGB**/
+#titulo {
+    background-color: rgb(100, 50, 200);
+}
+
+/**OUTROS METODOS DE DEFINIR A COR - HEXADECIMAL**/
+.texto1 {
+    background-color:#0c9100;
+}
+
+/**OUTROS METODOS DE DEFINIR A COR - NOME**/
+.texto2 {
+    background-color: black;
+    color: red;
+    font-weight: bolder;
+}
