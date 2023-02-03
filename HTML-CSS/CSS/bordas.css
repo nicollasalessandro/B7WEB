@@ -1,0 +1,21 @@
+/**APLICANDO BORDAS COMO PROPIEDADES DO ELEMENTO - TAMANHO, ESTILO DA BORDA E COR (SEQUÊNCIA DAS PROPIEDADES)**/
+h1 {
+    background-color: red;
+    border: 2px solid black;
+}
+
+.p1 {
+    border: 5px dotted blue;
+}
+
+.p2 {
+    border: 5px dashed black;
+}
+
+.p3 {
+    border: 5px double red;
+}
+
+.p4 {
+    border: 5px groove goldenrod;
+}
