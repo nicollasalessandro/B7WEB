@@ -19,3 +19,24 @@ h1 {
 .p4 {
     border: 5px groove goldenrod;
 }
+
+/**APLICANDO BORDAS COM DIREÇÕES (CIMA - TOP / BOTTOM - BAIXO / LEFT - ESQUERDA / RIGHT)**/
+.p5 {
+    border-bottom: 5px groove green;
+}
+
+/**APLICANDO BORDAS COM ARREDONDAMENTO**/
+.p6 {
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+}
+
+/**APLICANDO BORDAS COM ARREDONDAMENTO - FAZENDO CIRCULO **/
+div {
+    background-color: greenyellow;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    border: 2px solid black;
+}
