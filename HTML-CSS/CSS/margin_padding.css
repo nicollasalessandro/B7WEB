@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+}
+
+.exemplo {
+    border: 1px solid #00ff00;
+    padding: 10px; /*ESPAÇAMENTO INTERNO*/
+    margin: 20px; /*ESPAÇAMENTO EXTERNO*/
+}
+
+
