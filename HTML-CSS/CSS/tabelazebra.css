@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    display: flex;
+    justify-content: center;
+    
+}
+
+table {
+    width: 280px;
+    height: auto;
+    border: 1px solid #c5c5c5;
+}
+
+thead {
+    background-color: #c5c5c5;
+}
+
+thead td {
+    text-align: center;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+tr:nth-child(2n) {
+    background-color: yellowgreen;
+}
+
